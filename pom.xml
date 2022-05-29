@@ -12,6 +12,7 @@
         <module>app</module>
         <module>premain</module>
         <module>agentmain</module>
+        <module>agentmain2</module>
     </modules>
 
     <properties>
